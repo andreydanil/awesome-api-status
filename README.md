@@ -1,0 +1,1 @@
+Visit this site at https://andreydanil.github.io/awesome-api-status/
